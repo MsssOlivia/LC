@@ -1,1 +1,1 @@
-# leetCode
+# LC
